@@ -1,7 +1,7 @@
 # HTML-TO-PDF
 
 a simple flask app to convert your website html page to pdf which may be used for machine learning purpose
-as the chat app uses websocket were we can't the chat in our database to apply machine learning on data to track user
+as the chat app uses websocket were we can't store chat in our database to apply machine learning on data to track user
 sentiment analysis 
 
 ## installation 
