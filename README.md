@@ -4,12 +4,14 @@ a simple flask app to convert your website html page to pdf which may be used fo
 as the chat app uses websocket were we can't the chat in our database to apply machine learning on data to track user
 sentiment analysis 
 
-##installation 
+## installation 
 
 run: pip install -r requirements.txt in your shell
 
 as in virtual environment for windows the executable for pyhton script is
 'venv\Scripts' which does not support some of the python third pirty package
+
+and it does not have extra package support like ubuntu which has python-dev
 
 
 ```python
@@ -31,7 +33,7 @@ if not in virtual environment
 this time python scripts were executed by 
 'C:\\Program Files (x86)\\Python37-32'
 
-and it does not have extra package support like ubuntu which has python-dev
+
 
 so configure the path if the package supports like this time it supports
 
